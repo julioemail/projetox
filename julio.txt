@@ -1,0 +1,14 @@
+ O volume na unidade C ‚ OS
+ O N£mero de S‚rie do Volume ‚ E4F3-814D
+
+ Pasta de C:\Temp\3inn
+
+01/06/2021  18:19    <DIR>          .
+01/06/2021  18:19    <DIR>          ..
+18/05/2021  19:22               300 index.html
+01/06/2021  18:19                 0 julio.txt
+18/05/2021  19:56               297 juliovitorino.html
+18/05/2021  19:22               300 menu.html
+18/05/2021  18:22                10 README.md
+               5 arquivo(s)            907 bytes
+               2 pasta(s)   99.773.313.024 bytes dispon¡veis
